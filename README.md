@@ -1,0 +1,1 @@
+## Configuration repository for Spring Boot Microservice
